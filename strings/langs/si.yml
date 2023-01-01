@@ -67,10 +67,10 @@ admin_27 : "Loop Play අබල කර ඇත"
 
 # Bot 
 # Start
-start_1 : "Thanks for having me in {0}.\n{1} is alive.\n\nFor any assistance or help, checkout our support group and channel."
+start_1 : "Thanks for having me in {0}.\n{1} is alive.\n\nFor any assistance or help, checkout our support group and channel.  \n\n 🔥Powerd By @EmoBotDevolopers"
 start_2 : "Hello, My name is {0}.\n\nI'm a telegram streaming bot with some useful features. Supporting platforms like Youtube, Spotify, Resso, AppleMusic , Soundcloud etc.\n\nFeel free to add me to your groups."
-start_3 : "Welcome To {0}\n\nI don't need any **admin permission** to work ( until asked for ).\n\nAssistant Username:- @{1}\nAssistant ID:- {2}"
-start_4 : "{0}'s Owner[{1}] has just joined your chat."
+start_3 : "Welcome To {0}\n\nI don't need any **admin permission** to work ( until asked for ).\n\nAssistant Username:- @{1}\nAssistant ID:- {2}\n\n 🔥Powerd By @EmoBotDevolopers"
+start_4 : "{0}'s Owner[{1}] has just joined your chat. "
 start_5 : "A member of {0}'s Sudo User[{1}] has just joined your chat."
 start_6 : "❗️ **Supergroup Needed** ❗️\n\nPlease convert your **group** to **supergroup** and then add me back.\n\n**How to make supergroup?**\n✅ Make your group's chat history **visible** once."
 start_7 : "**Blacklisted Chat**\n\nYou're chat has been blacklisted by the Bot. Please ask any SudoUser to whitelist chat first. Check [Sudolist from here]({0})"
@@ -80,9 +80,9 @@ help_1 : "වැඩි විස්තර සඳහා පහත බොත්ත
 help_2 : "උදව් සඳහා PM වලින් මාව සම්බන්ධ කරගන්න."
 
 # Settings
-setting_1 : "⚙️ **Music Bot Settings**\n\n🖇**Group:** {0}\n🔖**Group ID:** `{1}`\n\n💡**Choose the function buttons from below which you want to edit or change.**"
+setting_1 : "⚙️ **Music Bot Settings**\n\n🖇**Group:** {0}\n🔖**Group ID:** `{1}`\n\n💡**Choose the function buttons from below which you want to edit or change. \n\n 🔥Powerd By @EmoBotDevolopers**"
 setting_3 : "⁉️ What is This?\n\n1) Direct: Plays search queries directly. Use -v to play videos in direct mode.\n\n2) Inline: Returns Inline Markup Buttons for choosing between video & audio."
-setting_4 : "⁉️ What is This?\n\n👥 Everyone: Anyone can use admin commands(skip, pause, resume etc) present in this group.\n\n🙍 Admin Only: Only admins and authorized users can use admin commands."
+setting_4 : "⁉️ What is This?\n\n👥 Everyone: Anyone can use admin commands(skip, pause, resume etc) present in this group.\n\n🙍 Admin Only: Only admins and authorized users can use admin commands. 🔥Powerd By @EmoBotDevolopers"
 setting_5 : "No Authorized Users Found\n\nYou can allow any non-admin to use my admin commands by /auth and delete by using /unauth"
 setting_9 : "⁉️ What is This?\n\nWhen activated, Bot will delete its message after {0} to make your chat clean and clear."
 setting_10 : "⁉️ What is This?\n\n1) Group: Plays music in the group where the command is given .\n\n2) Channel: Plays music in the channel you want. Set channel id via /channelplay"
@@ -90,7 +90,7 @@ setting_11 : "⁉️ What is This?\n\n1) Everyone: Anyone present in this group 
 setting_12 : "❌ You've no channel id defined for channel mode. Please define with /channelplay."
 setting_13 : "Can't change play mode in active group call. Please stop the voice chat first with /stop."
 setting_14 : "⁉️ What is This?\n\nWhen activated, Bot will delete its executed commands (/play, /pause, /shuffle, /stop etc) immediately.\n\nBot will be requiring delete messages admin right for this to work properly."
-setting_15 : "Failed to resolve peer, Make sure you have added bot in your channel and promoted it as admin.\n\nTry setting /channelplay again.."
+setting_15 : "Failed to resolve peer, Make sure you have added bot in your channel and promoted it as admin.\n\nTry setting /channelplay again.. \n Report @EmoBotSupport"
 
 set_cb_1 : "ශ්‍රව්‍ය තත්ත්ව පැනලය ලබා ගනිමින්..."
 set_cb_2 : "වීඩියෝ තත්ත්ව පැනලය ලබා ගනිමින්..."
